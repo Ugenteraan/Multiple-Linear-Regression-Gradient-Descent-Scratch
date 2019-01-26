@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+# Linear Regression
+
+This work is intended purely for understanding purpose only. All the codes are written in Python with the help of NumPy library. Dataset is taken from UCI Machine Learning Repository.
+
+The dataset can be found here : https://archive.ics.uci.edu/ml/datasets/Combined+Cycle+Power+Plant
+
+A pdf file is also included to aid with the mathematics behind the algorithm.
+
+![Training](./image_1.png)
+![End of Training](./image_2.png)
+
+As can be seen above, the model has learnt to predict the y_hat value as close as possible to the y value.
+=======
+# Linear-Regression-from-Scratch
+Linear regression in Python using only Numpy. With Notes.
+
+![test](./image_1.png)
+>>>>>>> 132a12d111f9d965257b7edf3da9d4253017bb26
