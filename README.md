@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Linear Regression
 
 This work is intended purely for understanding purpose only. All the codes are written in Python with the help of NumPy library. Dataset is taken from UCI Machine Learning Repository.
