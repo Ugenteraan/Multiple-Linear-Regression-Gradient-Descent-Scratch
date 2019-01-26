@@ -11,9 +11,5 @@ A pdf file is also included to aid with the mathematics behind the algorithm.
 ![End of Training](./image_2.png)
 
 As can be seen above, the model has learnt to predict the y_hat value as close as possible to the y value.
-=======
-# Linear-Regression-from-Scratch
-Linear regression in Python using only Numpy. With Notes.
 
-![test](./image_1.png)
->>>>>>> 132a12d111f9d965257b7edf3da9d4253017bb26
+Have fun learning!
